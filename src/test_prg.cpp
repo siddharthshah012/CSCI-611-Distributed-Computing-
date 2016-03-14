@@ -1,3 +1,14 @@
+/*********************************************************
+
+Name :-Siddharth Shah
+File Description :- This contains the first tasks to be 
+				accomplished towards completing the Goldchase project.
+
+***********************************************************/
+
+
+
+
 #include "goldchase.h"
 #include "Map.h"
 #include <iostream>
